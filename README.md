@@ -35,7 +35,7 @@ All elements are styled with responsive and mobile-first principles in mind, ens
 - **Interactive User Experience**:
   - Custom JavaScript handles window-like controls (simulate minimize, close behavior).
   - Notification pop-ups created using dynamic DOM manipulation.
-  - Easter egg content gated behind a basic keyword/password prompt.
+  - Hidden content gated behind a basic keyword/password prompt.
 
 - **Accessibility and Responsiveness**:
   - Fully responsive layout via flexible box model and media queries.
